@@ -16,5 +16,5 @@ Hi! I am an aspiring Python developer, looking for new opportunities.
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gearbeagel&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearbeagel)](https://github.com/anuraghazra/github-readme-stats)
 
