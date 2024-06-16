@@ -1,4 +1,4 @@
-# Gearbeagel (Victoria Kondratska)
+# Victoria "Vitya" Kondratska 
 
 **`Backend Developer`**
 
