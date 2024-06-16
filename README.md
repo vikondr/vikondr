@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hi! I am an aspiring Python developer, looking for new opportunities.
+Hi! I am an aspiring Python developer, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack projects.
 ---
 
 ### 🧰 What can I work with?
