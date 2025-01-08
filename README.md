@@ -24,5 +24,4 @@ Hi! I am a rookie Python developer, looking for new opportunities. I have worked
 ### 📊 Stats
 
 [![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearbeagel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Vic's GitHub Streak](https://streak-stats.demolab.com?user=gearbeagel&theme=radical)](https://git.io/streak-stats)
 
