@@ -2,7 +2,7 @@
 
 **🧑‍💻`Backend Developer`**
 
-Hi! I am a rookie Python developer, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack projects.
+Hi! I am a rookie Python developer, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack web-applications.
 ---
 
 ### 💻 What can I work with?
