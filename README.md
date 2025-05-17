@@ -1,14 +1,15 @@
 # Victoria "Vitya" Kondratska 
 
-**🧑‍💻`Backend Developer`**
+**🧑‍💻`Full-Stack Developer`**
 
-Hi! I am a rookie Python developer, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack web-applications.
+Hi! I am a rookie developer, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack web-applications.
 ---
 
 ### 💻 What can I work with?
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="DRF" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align='left' alt='Boostrap' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
