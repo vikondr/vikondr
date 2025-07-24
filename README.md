@@ -18,11 +18,4 @@ Hi! I am a rookie developer, mostly focusing on Python, looking for new opportun
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />          
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-
-<br />
-
-### 📊 Stats
-
-[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearbeagel&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 #### !! This account is [@gearbeagel's](https://github.com/gearbeagel) second account. The main one was lost due to 2FA issues.
