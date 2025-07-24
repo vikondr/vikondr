@@ -2,7 +2,7 @@
 
 **🧑‍💻`Full-Stack Developer`**
 
-Hi! I am a rookie developer, mostly focusing on Python, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack web-applications.
+I am a rookie developer, mostly focusing on Python, looking for new opportunities. I have worked on various projects, ranging from Telegram bots to Full-Stack web-applications.
 ---
 
 ### 💻 What stack am I aquainted with?
@@ -17,5 +17,9 @@ Hi! I am a rookie developer, mostly focusing on Python, looking for new opportun
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />          
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+---
+
+<br/>
 
 #### !! This account is [@gearbeagel's](https://github.com/gearbeagel) second account. The main one was lost due to 2FA issues.
