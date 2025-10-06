@@ -22,4 +22,4 @@ I am a rookie developer, mostly focusing on Python, looking for new opportunitie
 
 ---
 
-#### !! This account is [@gearbeagel's](https://github.com/gearbeagel) second account. The main one was lost due to 2FA issues.
+![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikondr&show_icons=true&theme=transparent)
